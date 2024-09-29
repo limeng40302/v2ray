@@ -42,7 +42,8 @@
 
 # ubuntu执行
 ```shell
- sudo bash < <(wget -qQ- -o- https://git.io.v2ray.sh)
+sudo bash < <(wget -qO- -o- https://git.io/v2ray.sh)
+
 ```
 
 # 脚本说明
